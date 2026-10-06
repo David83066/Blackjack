@@ -1,0 +1,1 @@
+global.round_result = Round_Result.bust;

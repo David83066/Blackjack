@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"og_gamestate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"og_gamestate",
+  "parent":{
+    "name":"shit",
+    "path":"folders/shit.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gamestate_v2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gamestate_v2",
+  "parent":{
+    "name":"blackjack",
+    "path":"blackjack.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
