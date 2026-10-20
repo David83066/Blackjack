@@ -15,7 +15,6 @@
     {"$GMFolder":"","%Name":"Bet","folderPath":"folders/Buttons/Bet.yy","name":"Bet","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Cards","folderPath":"folders/Cards.yy","name":"Cards","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Chips","folderPath":"folders/Chips.yy","name":"Chips","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"shit","folderPath":"folders/shit.yy","name":"shit","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[
     {"link":"io.gamemaker.sdfshaders-1.0.0","name":"io.gamemaker.sdfshaders-1.0.0","path":"io.gamemaker.sdfshaders-1.0.0.yyp",},
@@ -34,7 +33,6 @@
   "resources":[
     {"id":{"name":"fnt_button","path":"fonts/fnt_button/fnt_button.yy",},},
     {"id":{"name":"fnt_tekst","path":"fonts/fnt_tekst/fnt_tekst.yy",},},
-    {"id":{"name":"Font3","path":"fonts/Font3/Font3.yy",},},
     {"id":{"name":"Chip_1","path":"objects/Chip_1/Chip_1.yy",},},
     {"id":{"name":"Chip_100","path":"objects/Chip_100/Chip_100.yy",},},
     {"id":{"name":"Chip_25","path":"objects/Chip_25/Chip_25.yy",},},
@@ -51,12 +49,9 @@
     {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},},
     {"id":{"name":"obj_chip_parent","path":"objects/obj_chip_parent/obj_chip_parent.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
-    {"id":{"name":"Object6","path":"objects/Object6/Object6.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"functions","path":"scripts/functions/functions.yy",},},
     {"id":{"name":"gamestate_v2","path":"scripts/gamestate_v2/gamestate_v2.yy",},},
-    {"id":{"name":"gamestate","path":"scripts/gamestate/gamestate.yy",},},
-    {"id":{"name":"og_gamestate","path":"scripts/og_gamestate/og_gamestate.yy",},},
     {"id":{"name":"snd_button_click_fail","path":"sounds/snd_button_click_fail/snd_button_click_fail.yy",},},
     {"id":{"name":"snd_button_click","path":"sounds/snd_button_click/snd_button_click.yy",},},
     {"id":{"name":"snd_card_deal","path":"sounds/snd_card_deal/snd_card_deal.yy",},},
